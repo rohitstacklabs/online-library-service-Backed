@@ -1,5 +1,7 @@
 # Online Library Service (Backend)
 
+[📄 Open ER Diagram & API Blueprint PDF](https://github.com/rohitstacklabs/online-library-service-Backed/raw/main/Online%20Library%20-%20Er%20Diagram%20%26%20Api%20Blueprint.pdf)
+
 Production-ready backend service for the **Online Library Management System**.  
 This project is designed with real-world features and production practices in mind.
 
